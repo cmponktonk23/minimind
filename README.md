@@ -29,6 +29,8 @@
 
 中文 | [English](./README_en.md)
 
+[📚 LLM / Agent 面试学习路线图](./docs/llm_agent_interview_learning_guide.md)
+
 </div>
 
 * 此开源项目旨在完全从 0 开始，仅用 3 块钱成本与 2 小时训练时间，即可训练出规模约为 64M 的超小语言模型 MiniMind。
